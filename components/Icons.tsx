@@ -1,7 +1,8 @@
+
 import React from 'react';
 
 export const CompanyLogo: React.FC<React.ImgHTMLAttributes<HTMLImageElement>> = (props) => (
-    <img src="/logo.png" alt="Dermatics.in Logo" {...props} />
+  <img src="/logo.png" alt="Dermatics.in Logo" {...props} />
 );
 
 
